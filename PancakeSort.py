@@ -17,4 +17,4 @@ def pancake(mylist):
     return finallist
 
 
-print(pancake([3,34,9,7,22]))
+print(pancake([3,34,9,7,20]))
